@@ -11,4 +11,7 @@ public class AnyEntity {
 	private String name;
 	private Integer age;
 	private Double salary;
+	public int compare(AnyEntity anyEntity) {
+		return this.age - anyEntity.getAge();
+	}
 }
