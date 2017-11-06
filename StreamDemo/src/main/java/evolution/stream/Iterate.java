@@ -13,7 +13,7 @@ public class Iterate {
 		Stream.iterate(0, x -> x + 2).skip(100).limit(2).forEach(System.out::println);
 		// Get the first 10 even numbers.
 		Stream.iterate(0, x -> x + 1).filter(x -> x % 2 == 0).limit(10).forEach(System.out::println);
-		// For counterpart
+		// For Counterpart
 		for (int i = 0; i < 10; i++) {
 			System.out.println(i);
 		}
