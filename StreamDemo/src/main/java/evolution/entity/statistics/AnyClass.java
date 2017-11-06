@@ -1,4 +1,4 @@
-package evolution.entityStatistics;
+package evolution.entity.statistics;
 
 import java.util.ArrayList;
 import java.util.DoubleSummaryStatistics;

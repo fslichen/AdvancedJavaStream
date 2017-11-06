@@ -1,4 +1,4 @@
-package evolution.entityStatistics;
+package evolution.entity.statistics;
 
 public class AnyEntity {
 	private String name;

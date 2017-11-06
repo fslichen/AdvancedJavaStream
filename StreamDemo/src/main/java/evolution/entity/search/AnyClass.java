@@ -1,4 +1,4 @@
-package evolution.entitySearch;
+package evolution.entity.search;
 
 import java.util.Comparator;
 import java.util.LinkedList;

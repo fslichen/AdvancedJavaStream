@@ -1,4 +1,4 @@
-package evolution.entitySort;
+package evolution.entity.sort;
 
 import java.util.Arrays;
 import java.util.List;
