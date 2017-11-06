@@ -1,4 +1,4 @@
-package evolution.obtain;
+package evolution;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 
 import org.junit.Test;
 
-public class ObtainDemo {
+public class Obtain {
 	@Test
 	public void test() {
 		// Stream can be obtained from collection.

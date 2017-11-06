@@ -1,4 +1,4 @@
-package evolution.order;
+package evolution;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.stream.IntStream;
 
 import org.junit.Test;
 
-public class OrderDemo {
+public class Order {
 	@Test
 	public void test() {
 		List<Integer> list = new LinkedList<>();

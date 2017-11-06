@@ -1,4 +1,4 @@
-package evolution.stream;
+package evolution;
 
 import java.util.Arrays;
 import java.util.LinkedList;

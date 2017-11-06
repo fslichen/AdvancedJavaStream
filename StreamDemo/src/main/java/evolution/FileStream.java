@@ -1,4 +1,4 @@
-package evolution.file;
+package evolution;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 import org.junit.Test;
 
-public class AnyClass {
+public class FileStream {
 	/**
 	 * # Port Number
 	 * server.port = 8080
